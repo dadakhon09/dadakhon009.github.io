@@ -1,0 +1,38 @@
+body {
+    background-color: lightblue;
+}
+p.outset {border-style: outset;}
+p{
+	font-size:18pt;
+	font-family: Eras Light ITC;
+  float: left; 
+  margin-right:10px; 
+  border: lightblue 1px;
+  padding=2px
+}
+h1 {
+   color: green;
+   text-align: center;
+   font-size:30pt;
+   background-color:Tomato;
+   font-family: Monotype Corsiva ;
+}
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+h2{
+	 font-size:14pt;
+	 font-family:Verdana;
+	 margin=20px 50px;
+}
+pre{
+	font-size: 15pt;
+  
+}
+ul {
+  font-family: Buxton Sketch; 
+  font-size:25pt;
+}
